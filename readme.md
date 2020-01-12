@@ -7,6 +7,6 @@ dartソースコードをmobiファイルに変換して、Kindleで読みやす
 - cheepubのインストール(gem install cheepub)
 
 ## EPUB変換
-'''bash
-bash make.sh
-'''
+
+  srcフォルダを作成して、ソースコードを配置する
+  bash make.sh
